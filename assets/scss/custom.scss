@@ -1,0 +1,195 @@
+.ai-cv {
+        /* color: rgb(255,0,0)!important; */
+        /* font-size: 50px !important; */
+        }
+
+i.ai.ai-cv {
+        /* text-shadow: 0 0 3px #000; */
+        outline: 2px solid rgb(51,54,59);
+        outline-offset: -3px;
+        padding-left: 4px;
+        padding-right: 3px;
+        margin-right: -0px;
+        /* background-color:#1E73BE; 
+        color: white!important; */  
+        } 
+
+i.ai.ai-dataverse {
+    margin-left: -3.3px;
+        }
+
+ul.network-icon {
+    margin-left: 10px;
+        }
+
+p.powered-by {
+        }
+
+.dark i.ai.ai-cv {
+        outline: 2px solid rgba(255, 255, 255, 0.70);
+        }      
+
+.big-icon {
+        color: #33363b;
+        }
+
+.dark .big-icon {  
+        color: #FFFFFFB2;    
+        }
+
+/* .col-12 {
+        font-size: 20px;
+        } */
+
+
+.dark .big-icon {
+        font-size: 35px;
+        } 
+.big-icon {
+        font-size: 35px;
+        }
+ 
+.col-lg-8 h1 {
+        font-size: 28px;
+        font-weight: 700;
+        }
+.col-lg-8 h2 {
+        font-size: 28px;
+        font-weight: 700;
+        }
+.col-lg-8 h3 {
+        font-size: 28px;
+        font-weight: 700;
+        }
+
+@media screen and (max-width:928px) {
+.dark .big-icon {
+        font-size: 27px;
+        } 
+.big-icon {
+        font-size: 27px;
+        }
+ 
+.col-lg-8 h1 {
+        font-size: 22px;
+        font-weight: 700;
+        }
+.col-lg-8 h2 {
+        font-size: 22px;
+        font-weight: 700;
+        }
+.col-lg-8 h3 {
+        font-size: 22px;
+        font-weight: 700;
+        }
+}
+
+@media screen and (max-width:1200px) and (min-width:992px) {
+.big-icon {
+        font-size: 27px;
+        }
+.portrait-title h2 {
+        font-size: 31px;
+        }   
+.portrait-title h3 {
+        font-size: 18px;
+        }
+.col-lg-8 p {
+        font-size: 20px;
+        font-weight: 300;
+        }
+p.course {
+        font-size: 18px!important;
+        font-weight: 300!important;
+        }
+p.institution {
+        font-size: 15px!important;
+        font-weight: 300!important;
+        }
+.ul-interests li {
+        font-size: 20px!important;
+        font-weight: 300;
+        }
+.col-lg-8 h1 {
+        font-size: 24px;
+        font-weight: 700;
+        }
+.col-lg-8 h2 {
+        font-size: 24px;
+        font-weight: 700;
+        }
+.col-lg-8 h3 {
+        font-size: 24px;
+        font-weight: 700;
+        }                  
+}
+
+.dark h1 {
+        color: #FFFFFFB2;
+        }
+.dark h2 {
+        color: #FFFFFFB2;
+        }
+.dark h3 {
+        color: #FFFFFFB2;
+        }
+.dark p.institution {
+        color: #FFFFFFB2;
+        }   
+.dark .portrait-title h3 {
+        color: #FFFFFFB2;
+        } 
+.portrait-title span {
+        color: #000000;
+        font-weight: 400;
+        font-style: italic;
+        }
+.dark .portrait-title span {
+        color: #ffffff;
+        font-weight: 400;
+        font-style: italic;
+        }
+.portrait-title span:hover {
+        color: #1E73BE;
+        font-weight: 400;
+        font-style: italic;
+        }               
+
+.main-menu-item {
+        font-size: 20px;
+        font-weight: 300;
+        }
+
+.dark .navbar {
+    background-color:#272935
+}     
+
+.navbar-brand:hover {
+    color: #FFFFFFB2!important;
+    pointer-events: none!important;
+}
+
+.navbar-brand {
+    pointer-events: none!important;
+}
+
+/* body {
+    background-color:#000000!important;    
+} */
+
+@media screen and (min-width:928px) {
+ .site-footer {
+        margin-top:20px;
+        }
+}	
+
+ @media screen and (max-width:928px) {
+ .site-footer {
+        margin-top:20px;
+        }
+}
+
+.website {
+    /* color:#ff0000!important; */
+    font-weight: 900;
+}      	   	

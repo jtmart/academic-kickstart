@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Condensed"
+
+# Optional Google font URL
+google_fonts = "Roboto+Condensed:700,700|Roboto+Condensed:300,300italic,700|Roboto+Mono"
+
+# Font families
+heading_font = "Roboto Condensed"
+body_font = "Roboto Condensed"
+nav_font = "Roboto Condensed"
+mono_font = "Roboto Mono"
