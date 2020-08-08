@@ -96,4 +96,4 @@ user_groups:
 - Visitors
 ---
 
- I am a mixed methods ethnographer in political science and sociology, with a focus on educated youth, representation and the politics of becoming in contemporary India. I recently curated an archival exhibition on student politics, and venture into text analysis and the study of populist speeches. Research repository: &#128218; <a style='color:red;' href='https://www.jtmartelli.com/'>jtmartelli.com</a>.
+ I am a mixed methods ethnographer in political science and sociology, with a focus on educated youth, representation and the politics of becoming in contemporary India. I recently curated an archival exhibition on student politics, and venture into text analysis and the study of populist speeches. Research repository: &#128218; <a style='color:red;' href='https://www.jtmartelli.com/' target='_blank'>jtmartelli.com</a>.
