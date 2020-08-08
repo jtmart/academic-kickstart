@@ -30,7 +30,7 @@ interests:
 education:
   courses:
   - course: Postdoctoral fellow
-    institution: CERI-Sciences Po Paris (UMR7050)
+    institution: CERI-Sciences Po Paris (UMR 7050)
     year: 2018
   - course: PhD in Political Science and Sociology
     institution: King’s College London, King’s India Institute
