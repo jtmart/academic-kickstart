@@ -1,0 +1,2 @@
+- blue headers smaller than other menus
+- remove print icon in mobile view menu

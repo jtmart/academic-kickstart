@@ -39,7 +39,7 @@
   weight = 70
 
 [[main]]
-  name = "&#128196;"
+  name = "<div role='img' alt='CV' class='cvhtmlsymbol'>&#128196;</div>"
   url = "files/cv.pdf"
   weight = 80
 
