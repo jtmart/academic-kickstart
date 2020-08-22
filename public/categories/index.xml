@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | CV J-T.M.</title>
+    <link>https://wwww.cv.jtmartelli.com/categories/</link>
+      <atom:link href="https://wwww.cv.jtmartelli.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© J-T.M. 2020 | jtmartelli.com&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;</copyright>
+    <image>
+      <url>https://wwww.cv.jtmartelli.com/images/icon_hu46524ca8b040a0344831a2da3ccacd4c_12378_512x512_fill_lanczos_center_2.png</url>
+      <title>Categories</title>
+      <link>https://wwww.cv.jtmartelli.com/categories/</link>
+    </image>
+    
+  </channel>
+</rss>
